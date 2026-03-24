@@ -16,6 +16,7 @@
 | `/interactive-prototype` | Ссылки на интерактивный прототип (Figma) |
 | `/docs` | Документация (screenflow, требования) |
 
+
 ## Ветки
 - `main` - основная ветка (стабильная версия)
 - `feature/user-flow-prototype` - ветка для разработки прототипа
@@ -24,5 +25,5 @@
 Носович А.А., группа 351051
 
 ## Ссылки
-- [Интерактивный прототип в Figma](https://www.figma.com/...)
-- [Презентация проекта](docs/presentation.pdf)-.-.-.
+- [Интерактивный прототип в Figma](https://www.figma.com/proto/1jxyAQryzhKXbLbCfbt0Ni/Untitled?node-id=0-1&t=c6n2FDp3AuyMtdkv-1)
+
